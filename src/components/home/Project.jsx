@@ -7,7 +7,6 @@ import racoonimage from "../../assets/img/racoonimage.png"
 import discimage from "../../assets/img/discimage.png"
 import messageimage from '../../assets/img/messageimage.png'
 import deskimage1 from "../../assets/img/deskimage1.jpg"
-import deskimage2 from "../../assets/img/deskimage2.jpg"
 import deskimage3 from "../../assets/img/deskimage3.jpg"
 
 
