@@ -1,5 +1,4 @@
 import React from "react";
-
 import axios from "axios";
 import { Jumbotron } from "./migration";
 
@@ -39,7 +38,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
         <div className="col-5 d-none d-lg-block align-self-center">
           {showPic && (
             <img
-              className="border border-secondary rounded-circle"
+              className="profile-image"
               src={profilePicUrl}
               alt="profilepicture"
               width={imgSize}
